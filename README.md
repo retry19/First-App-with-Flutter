@@ -2,9 +2,9 @@
 
 Write my first Flutter app and I see in codelabs android.
 
-## Part 1
+## Part 2
 
-![Screenshot of application made in part 1](assets/images/Screenshot_20201018_112607.png)
+![Screenshot of application made in part 2](assets/images/Screenshot_20201018_145008.png)
 
 ## References
 
